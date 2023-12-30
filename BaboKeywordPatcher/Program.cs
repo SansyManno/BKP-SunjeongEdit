@@ -162,7 +162,7 @@ namespace BaboKeywordPatcher
             }
 
             // EroticArmor
-            if (StrMatch(name, "suit") ||  StrMatch(name, "latex") || StrMatch(name, "rubber") ||
+            if (StrMatch(name, "suit") ||  StrMatch(name, "latex") || StrMatch(name, "upper") || StrMatch(name, "lower") || StrMatch(name, "rubber") ||
                 StrMatch(name, "ebonite") || StrMatch(name, "slut") || StrMatch(name, "lingerie") ||
                 (StrMatch(name, "dress") && Settings.Value.EroticDresses)
                 )
